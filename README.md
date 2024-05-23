@@ -20,3 +20,10 @@ The best performing model architect utilised the attention mechanism that figure
 sentiment polarities related to the aspect expressed. The quantitative and qualitative analysis have proved the attention mechanisms’
 effectiveness, compared to the simple aspect embedding techniques. The best proposed model achieved 76.91% accuracy score in testing dataset, 
 with respectively well performing F1-score in all three target sentiment classes: 76.75% (Negative), 80.71% (Neutral), and 70.83% (Positive).
+![Attention](https://github.com/coffeemartin/NLP-ABSA/assets/73702415/b5f8aa49-aced-4533-8dd0-5dbc1b830032)
+
+
+![attention_weights](https://github.com/coffeemartin/NLP-ABSA/assets/73702415/dbf9046b-3f58-40d1-b718-904b96145d3e)
+![Flowcharts(2)](https://github.com/coffeemartin/NLP-ABSA/assets/73702415/76b71b55-bf08-41f6-afc4-bed905b2f3fd)
+![Flowcharts](https://github.com/coffeemartin/NLP-ABSA/assets/73702415/7e5476ad-2c3d-4b4a-b3ce-d566b6812319)
+![rnn2](https://github.com/coffeemartin/NLP-ABSA/assets/73702415/68b5eefc-3e68-4d28-896a-03d755feff1b)
