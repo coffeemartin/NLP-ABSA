@@ -11,7 +11,7 @@ different sentiments addressing different aspects. It would be significantly mor
 polarities, specifically to the aspect addressed (e.g. service, food, price etc).
 
 This report has explored different recurrent neural network architectures with novel variants. The models were trained with MAMS 
-(MultiAspect Multi-Sentiment) dataset (restaurant reviews), where each review sentence has at least two aspects mentioned with different sentiment 
+(Multi-Aspect Multi-Sentiment) dataset (restaurant reviews), where each review sentence has at least two aspects mentioned with different sentiment 
 polarities. 
 
 The models aim to predict the sentiment polarities based on the corresponding review sentences, as well as the given aspects. 
